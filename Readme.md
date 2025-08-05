@@ -1,16 +1,16 @@
-# 📚 AI Book Recommender Agent
+#  AI Book Recommender Agent
 
 An intelligent book recommendation AI powered by Retrieval-Augmented Generation (RAG), prompt engineering, structured outputs, and function calling.
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project is a smart conversational AI agent that helps users discover new books tailored to their interests. It understands user preferences, retrieves relevant book data, and generates accurate and structured book suggestions using advanced AI techniques.
 
 ---
 
-## 📝 Project Description
+##  Project Description
 
 The AI Book Recommender Agent works by combining:
 
@@ -30,7 +30,7 @@ This makes the agent capable of both deep conversational understanding and dynam
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Language Model:** OpenAI GPT-4 / Gemini Pro
 - **Frameworks:** LangChain / LlamaIndex
@@ -42,7 +42,7 @@ This makes the agent capable of both deep conversational understanding and dynam
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - Personalized book recommendations for readers
 - Smart library assistants
@@ -51,7 +51,7 @@ This makes the agent capable of both deep conversational understanding and dynam
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Chat-based interface to understand reader’s mood or preferences
 - Live retrieval of latest or trending books
