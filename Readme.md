@@ -35,10 +35,8 @@ This makes the agent capable of both deep conversational understanding and dynam
 - **Language Model:** OpenAI GPT-4 / Gemini Pro
 - **Frameworks:** LangChain / LlamaIndex
 - **Data Sources:** OpenLibrary API / custom book database
-- **Retrieval System:** FAISS / Pinecone (optional)
 - **Backend:** Python (FastAPI / Flask)
-- **Frontend (optional):** Streamlit / React
-- **Deployment:** Render / Vercel / Hugging Face Spaces
+- **Frontend (optional):** React
 
 ---
 
