@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasy",
+    "summary": "A high fantasy novel following the life of Kvothe, a magically gifted young man who grows to be the most notorious wizard his world has ever seen."
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Psychological Thriller",
+    "summary": "A gripping story of a marriage gone terribly wrong, full of suspense, mind games, and a strong, complex female lead."
+  },
+  {
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "genre": "Romantic Comedy",
+    "summary": "Two best friends take one last vacation together to see if they can turn their friendship into something more."
+  }
+]
